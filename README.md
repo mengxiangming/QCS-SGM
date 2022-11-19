@@ -1,6 +1,6 @@
-# ICLR2023 submission  #3904: Quantized Compressed Sensing with Score-Based Generative Models
+#  Quantized Compressed Sensing with Score-Based Generative Models
 
-This repo contains the Pytorch implementation for the ICLR2023 submission #3904 "Quantized Compressed Sensing with Score-Based Generative Models"
+This repo contains the Pytorch implementation for  "Quantized Compressed Sensing with Score-Based Generative Models"
 -----------------------------------------------------------------------------------------
 
 
@@ -120,5 +120,19 @@ If you do not want to train by yourself, you can simply have a try on celeba, ci
 
 This repo is built on top of the open-sourced ncsnv2 code: https://github.com/ermongroup/ncsnv2
 
-
+```shell
+@inproceedings{song2020improved,
+  author    = {Yang Song and Stefano Ermon},
+  editor    = {Hugo Larochelle and
+               Marc'Aurelio Ranzato and
+               Raia Hadsell and
+               Maria{-}Florina Balcan and
+               Hsuan{-}Tien Lin},
+  title     = {Improved Techniques for Training Score-Based Generative Models},
+  booktitle = {Advances in Neural Information Processing Systems 33: Annual Conference
+               on Neural Information Processing Systems 2020, NeurIPS 2020, December
+               6-12, 2020, virtual},
+  year      = {2020}
+}
+```
 
