@@ -5,12 +5,15 @@ This repo contains the Pytorch implementation for  "Quantized Compressed Sensing
 [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006)
 -----------------------------------------------------------------------------------------
 
-**Linear Case** : The method for the linear inverse problems such as image restoration and compressed sensing can be found [Diffusion Model Based Posterior Sampling for Noisy Linear Inverse Problems](https://arxiv.org/abs/2211.12343). The code is available at [dmps code](https://github.com/mengxiangming/dmps/)
+
 
 
 ![samples](assets/ffhq_123bit.png)
 
 Our results on FFHQ 256px high-resolution images with 8x noisy heavily quantized (1-bit, 2-bit, and 3-bit)  measurements y = Q(Ax + n), where A is a Gaussian measurement matrix. The original dimension of signal x is N = 196608, while the number of measurements is 8x, i.e., M = 24576 << N. An additive Gaussian noise n with standard deviation  0.001 is added.
+
+
+**Linear Case** : The method for the linear inverse problems such as image restoration and compressed sensing can be found [Diffusion Model Based Posterior Sampling for Noisy Linear Inverse Problems](https://arxiv.org/abs/2211.12343). The code is available at [dmps code](https://github.com/mengxiangming/dmps/)
 
 -----------------------------------------------------------------------------------------
 
