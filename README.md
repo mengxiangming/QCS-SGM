@@ -122,6 +122,21 @@ We trained on MNIST ourselves with the `configs/mnist.yml`  in this project usin
 Link: https://github.com/ermongroup/ncsnv2
   
 
+
+## Citation 
+If you find the code useful for your research, please consider citing as 
+
+```
+@article{meng2022quantized,
+  title={Quantized Compressed Sensing with Score-Based Generative Models},
+  author={Meng, Xiangming and Kabashima, Yoshiyuki},
+  journal={arXiv preprint arXiv:2211.13006},
+  year={2022}
+}
+
+```
+
+
 ## References
 
 This repo is built on top of the open-sourced ncsnv2 code: https://github.com/ermongroup/ncsnv2
