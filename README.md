@@ -107,16 +107,18 @@ Please download the open-sourced pretrained checkpoints from the following link 
 Link: https://drive.google.com/drive/folders/1217uhIvLg9ZrYNKOR3XTRFSurt4miQrd?usp=sharing
 
 
+For MNIST, please download the pre-trained checkpoint from the following link:
+
+Link: https://1drv.ms/u/s!AksoPUl-6AQRhOcfP3FT9U3KB4BQfA?e=Qjc17h
+
 It assumes the `--exp`   argument is set to `exp`
 
 
 Notice:
 
-There is no pre-trained checkpoint for MNIST in the above link. Ii our work, we trained on MNIST ourselves with the `configs/mnist.yml`  in this project using the open-sourced ncsnv2 code:
+We trained on MNIST ourselves with the `configs/mnist.yml`  in this project using the open-sourced ncsnv2 code:
 Link: https://github.com/ermongroup/ncsnv2
-Please follow exactly their descriptions to train on MNIST. We did not share the checkpoint since it is larger than 100MB. 
-
-If you do not want to train by yourself, you can simply have a try on celeba, cifar10, and ffhq with pre-trained checkpoints. 
+  
 
 ## References
 
