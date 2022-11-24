@@ -109,7 +109,7 @@ Link: https://drive.google.com/drive/folders/1217uhIvLg9ZrYNKOR3XTRFSurt4miQrd?u
 
 For MNIST, please download the pre-trained checkpoint from the following link:
 
-Link: https://1drv.ms/u/s!AksoPUl-6AQRhOcfP3FT9U3KB4BQfA?e=Qjc17h
+Link: https://1drv.ms/u/s!AksoPUl-6AQRhOceyE4DTvfCTd7b3Q?e=zrJYoi
 
 It assumes the `--exp`   argument is set to `exp`
 
