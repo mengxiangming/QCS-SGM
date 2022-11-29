@@ -13,6 +13,13 @@ This repo contains the Pytorch implementation for  "Quantized Compressed Sensing
 Our results on FFHQ 256px high-resolution images with 8x noisy heavily quantized (1-bit, 2-bit, and 3-bit)  measurements y = Q(Ax + n), where A is a Gaussian measurement matrix. The original dimension of signal x is N = 196608, while the number of measurements is 8x, i.e., M = 24576 << N. An additive Gaussian noise n with standard deviation  0.001 is added.
 
 
+![samples](assets/cover2.png)
+A comparison of QCS-SGM with other algorithms on MNIST and CelebA datasets for 1-bit CS. 
+
+
+
+
+
 **Linear Case** : Some resuts for CS in the linear case can also be found in the appendix.  Othe linear inverse problems such as image restoration can be found in another related paper[Diffusion Model Based Posterior Sampling for Noisy Linear Inverse Problems](https://arxiv.org/abs/2211.12343). The code is available at [dmps code](https://github.com/mengxiangming/dmps/). 
 
 -----------------------------------------------------------------------------------------
