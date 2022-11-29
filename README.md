@@ -14,7 +14,7 @@ Our results on FFHQ 256px high-resolution images with 8x noisy heavily quantized
 
 
 ![samples](assets/cover2.png)
-A comparison of QCS-SGM with other algorithms on MNIST and CelebA datasets for 1-bit CS. 
+A comparison of QCS-SGM (ours) with other algorithms on MNIST and CelebA datasets in the case of 1-bit CS. 
 
 
 
