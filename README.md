@@ -1,6 +1,6 @@
 #  Quantized Compressed Sensing with Score-Based Generative Models
 
-This repo contains the Pytorch implementation for  "Quantized Compressed Sensing with Score-Based Generative Models"
+This repo contains the Pytorch implementation for ICLR2023 paper "Quantized Compressed Sensing with Score-Based Generative Models"
 
 [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006)
 -----------------------------------------------------------------------------------------
