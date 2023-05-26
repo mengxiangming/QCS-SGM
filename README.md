@@ -3,6 +3,8 @@
 This repo contains the Pytorch implementation for ICLR2023 paper "Quantized Compressed Sensing with Score-Based Generative Models"
 
 [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006)
+
+Notice: An advanced varaiant of QCS-SGM, namely QCS-SGM+, has been proposed. [QCS-SGM+: Improved Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2302.00919v2)
 -----------------------------------------------------------------------------------------
 
 
