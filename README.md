@@ -114,7 +114,7 @@ Number of quantization bits Q: `quantize_bits`
 Step 2: 
 Run the following command 
 ```shell
-python python main.py  --sample --config celeba.yml --model_dir celeba --i ./celeba_demo_results
+python main.py  --sample --config celeba.yml --model_dir celeba --i ./celeba_demo_results
 ```
 Reconstructed results will be saved in `<exp>/celeba_demo_results/`.
 
